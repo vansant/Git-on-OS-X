@@ -4,7 +4,7 @@ Git-on-OS-X
 Installing Git on OS X Mavericks
 
 ##Download Git 
-Visit hhttp://git-scm.com/downloads to get the most recent version of the Git. At the time of this writing it is version 1.9.2 and the OS X download is named git-1.9.2-intel-universal-snow-leopard.dmg.
+Visit http://git-scm.com/downloads to get the most recent version of the Git. At the time of this writing it is version 1.9.2 and the OS X download is named git-1.9.2-intel-universal-snow-leopard.dmg.
 
 ##Git Installation - Standard
 Open git-1.9.2-intel-universal-snow-leopard.dmg and double click on git-1.9.2-intel-universal-snow-leopard.pkg and follow the on screen instructions.
