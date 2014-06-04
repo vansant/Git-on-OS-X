@@ -16,7 +16,7 @@ Open git-1.9.2-intel-universal-snow-leopard.dmg and double click on git-1.9.2-in
 Mount the git-1.9.2-intel-universal-snow-leopard.dmg and drag the git-1.9.2-intel-universal-snow-leopard.pkg to the desktop.
 
 Run in terminal: 
-* $cd Desktop
+* $cd ~/Desktop
 * $pkgutil --expand git-1.9.2-intel-universal-snow-leopard.pkg folder
 * $cd folder
 * $cp git.pkg/Payload files.gz
