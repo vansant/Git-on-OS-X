@@ -30,7 +30,7 @@ Run in terminal:
 ### Add Git to $PATH
 Run in terminal:
 * $nano ~/.bash_profile
-* Add the following export statments
-* PATH = $PATH:~/git/bin
+* Add the following export statment
+* export PATH=/Users/$USER/git/bin:$PATH
 * Close and reopen terminal to use git command from terminal
 
